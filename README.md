@@ -18,10 +18,9 @@ Em geral, este foi um dos primeiros algoritmos funcionais que desenvolvi na facu
 ---
 
 ### **Como rodar:**
-1. É necessário possuir o pacote do CONIO2 na IDE escolhida.
-2. Rode o arquivo `GerenciadorCampeonatos.cpp` em uma IDE de C++ (utilizei o DEV-C++).
-3. Inclua os arquivos binários fornecidos no mesmo repositório do programa.
-
+1. Siga as instruções do repositório a seguir [Tutorial IDE](https://github.com/mateus-sm/Conio2-VsCode) para utilizar o VSCODE como IDE C / C++ (Copilar o arquivo). Tal repositório ja inclui a biblioteca do CONIO2 que é utilizada no projeto, caso opte por outra IDE de C / C++, certifique-se de incluí-la.
+2. Adicione os arquivos binários fornecidos no mesmo repositório do programa.
+3. execute o programa `GerenciadorCampeonatos.cpp`.
 
 Alguns registros já estão disponíveis nos arquivos binários fornecidos. No entanto, caso deseje começar com o "banco de dados" vazio, basta esvaziar os arquivos binários manualmente.
 

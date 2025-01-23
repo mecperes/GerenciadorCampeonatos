@@ -26,10 +26,10 @@ Alguns registros já estão disponíveis nos arquivos binários fornecidos. No e
 
 ---
 
-!Home
+![Home](imagens/Home.png)
 
-!Cadastro1
+![Cadastro1](imagens/Cadastro1.png)
 
-!Relatorio1
+![Relatorio1](imagens/Relatorio1.png)
 
-!Relatorio2
+![Relatorio2](imagens/Relatorio2.png)
